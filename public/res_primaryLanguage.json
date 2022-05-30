@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 I'm Damian Rojas, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker.",
+      "description": "👋 I'm Damian Rojas, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker. Machine learning and artificial intelligence are technologies I hope to learn in the future.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
