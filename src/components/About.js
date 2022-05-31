@@ -83,7 +83,7 @@ class About extends Component {
                     {about}
                     <br />
                     <br />
-                    <span> email: <a href="google.com">damianxrojas@gmail.com</a></span>
+                    <span> Email: damianxrojas@gmail.com</span>
                     <br />
                     <span><a href="https://drive.google.com/file/d/1vEzSM-0kZo4lcS8Bo7LqjyxZWXr_yX4A/view?usp=sharing">View my resume</a></span>
                   </div>
