@@ -85,7 +85,7 @@ class About extends Component {
                     <br />
                     <span> email: <a href="google.com">damianxrojas@gmail.com</a></span>
                     <br />
-                    {/* <span><a href="images/DamianRojasResume.png">View my resume</a></span> */}
+                    <span><a href="https://drive.google.com/file/d/1vEzSM-0kZo4lcS8Bo7LqjyxZWXr_yX4A/view?usp=sharing">View my resume</a></span>
                   </div>
                 </div>
               </div>
