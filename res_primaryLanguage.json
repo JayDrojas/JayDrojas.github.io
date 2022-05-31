@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "👋 I'm Damian Rojas, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker. Machine learning and artificial intelligence are technologies I hope to learn in the future.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Chirp",
+        "startDate": "2022",
+        "description": "Chirp is a twitter clone I developed. I had a lot of fun getting it to look like twitter.",
+        "images": [
+          "images/portfolio/chirp/p1.png",
+          "images/portfolio/chirp/p2.png"
+        ],
+        "url": "https://app-chirp-jd.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Animagee",
+        "startDate": "2022",
+        "description": "Animagee is a flickr clone with an Anime theme. Users can upload images and comment on other images.",
+        "images": [
+          "images/portfolio/animagee/p1.png",
+          "images/portfolio/animagee/p2.png"
+        ],
+        "url": "https://animagee.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "Gora",
+        "startDate": "2022",
+        "description": "Gora is a quora inspired clone with a horror theme. My first ever project and group project. Developed using Pug and express.",
+        "images": [
+          "images/portfolio/gora/p1.png",
+          "images/portfolio/gora/p2.png"
+        ],
+        "url": "https://gora--app.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "App Academy",
+        "title": "Student Software Developer",
+        "years": "11.2021 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "Bootstrap",
+          "Postgresql",
+          "Docker",
+          "Pug",
+          "Express",
+          "Flask"
+        ]
+      },
+      {
+        "company": "American Express",
+        "title": "Software Engineer Intern",
+        "years": "01.2021 - 06.2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "SpringBoot",
+          "MySQL",
+          "JavaScript",
+          "Docker",
+          "REST API"
+        ]
+      }
+    ]
+  }
