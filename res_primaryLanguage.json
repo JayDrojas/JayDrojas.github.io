@@ -39,7 +39,8 @@
         "startDate": "2022",
         "description": "Vapor is a steam cloned that was developed in a team of 4. Users can add their games to the listing and buy games as well.",
         "images": [
-          "images/portfolio/vapor/p1.png"
+          "images/portfolio/vapor/p1.png",
+          "images/portfolio/vapor/p2.png"
         ],
         "url": "https://vaporgamesapp.herokuapp.com/",
         "technologies": [
