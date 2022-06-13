@@ -32,6 +32,30 @@
           {
             "class": "devicon-python-plain",
             "name": "Python"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgeSQL"
+          },
+          {
+            "class": "devicon-sqlalchemy-plain colored",
+            "name": "SqlAlchemy"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           }
         ]
       },
@@ -57,6 +81,30 @@
           {
             "class": "devicon-python-plain",
             "name": "Python"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgeSQL"
+          },
+          {
+            "class": "devicon-sqlalchemy-plain colored",
+            "name": "SqlAlchemy"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           }
         ]
       },
@@ -82,6 +130,26 @@
           {
             "class": "devicon-express-original",
             "name": "Express"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgeSQL"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           }
         ]
       },
@@ -103,6 +171,22 @@
           {
             "class": "devicon-express-original",
             "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgeSQL"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           }
         ]
       }
