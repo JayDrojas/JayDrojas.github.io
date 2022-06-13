@@ -13,7 +13,7 @@
       {
         "title": "Chirp",
         "startDate": "2022",
-        "description": "Chirp is a twitter clone I developed. I had a lot of fun getting it to look like twitter.",
+        "description": "Chirp is a twitter clone where users can create an account. Once account is created they are free to create tweets with or without images. Users can also reply to tweets as well. Chirp was created using React and Flask, images are hosted using AWS.",
         "images": [
           "images/portfolio/chirp/p1.png",
           "images/portfolio/chirp/p2.png"
@@ -38,7 +38,7 @@
       {
         "title": "Vapor",
         "startDate": "2022",
-        "description": "Vapor is a steam cloned that was developed in a team of 4. Users can add their games to the listing and buy games as well.",
+        "description": "Vapor Games full-stack application that intends to mimic the functionality of popular gaming platform Steam.com by Valve Software. Nomzaa was built on a Python & Flask-SQLALchemy backend and a React-Redux frontend with AWS S3 implementation for user image uploading. Vapor Games was developed in collaboration with a team of fellow engineers.",
         "images": [
           "images/portfolio/vapor/p1.png",
           "images/portfolio/vapor/p2.png"
@@ -63,7 +63,7 @@
       {
         "title": "Animagee",
         "startDate": "2022",
-        "description": "Animagee is a flickr clone with an Anime theme. Users can upload images and comment on other images.",
+        "description": "Animagee is a flickr clone with an Anime theme. Users can upload images of their favorite anime characters. Users can also comment on other peoples uploads. AWS was used to host the images.",
         "images": [
           "images/portfolio/animagee/p1.png",
           "images/portfolio/animagee/p2.png"
@@ -88,7 +88,7 @@
       {
         "title": "Gora",
         "startDate": "2022",
-        "description": "Gora is a quora inspired clone with a horror theme. My first ever project and group project. Developed using Pug and express.",
+        "description": "Gora is a horror knowledge sharing application for horror entertainment enthusiasts. Users can satiate their morbid curiousity by asking questions and getting responses from fellow fans of nightmarish media! The frontend is a Javascript, PUG HTML app with a PostGresql database deployed to its own Heroku server.",
         "images": [
           "images/portfolio/gora/p1.png",
           "images/portfolio/gora/p2.png"
