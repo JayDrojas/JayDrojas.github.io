@@ -19,6 +19,7 @@
           "images/portfolio/chirp/p2.png"
         ],
         "url": "https://app-chirp-jd.herokuapp.com",
+        "githubUrl": "https://github.com/JayDrojas/chirp",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -43,6 +44,7 @@
           "images/portfolio/vapor/p2.png"
         ],
         "url": "https://vaporgamesapp.herokuapp.com/",
+        "githubUrl": "https://github.com/Cmizell186/vapor",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -67,6 +69,7 @@
           "images/portfolio/animagee/p2.png"
         ],
         "url": "https://animagee.herokuapp.com",
+        "githubUrl": "https://github.com/JayDrojas/animagee",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -91,6 +94,7 @@
           "images/portfolio/gora/p2.png"
         ],
         "url": "https://gora--app.herokuapp.com",
+        "githubUrl": "https://github.com/JDVien/gora-app",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
