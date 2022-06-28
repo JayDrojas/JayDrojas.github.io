@@ -85,7 +85,7 @@ class About extends Component {
                     <br />
                     <span> Email: damianxrojas@gmail.com</span>
                     <br />
-                    <span><a href="https://drive.google.com/file/d/1vEzSM-0kZo4lcS8Bo7LqjyxZWXr_yX4A/view?usp=sharing">View my resume</a></span>
+                    <span><a href="https://drive.google.com/file/d/1Uk5-HFVfcCr9CdV29r-qQ2tIMlB5a5My/view?usp=sharing">View my resume</a></span>
                   </div>
                 </div>
               </div>
