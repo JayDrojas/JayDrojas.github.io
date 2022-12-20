@@ -19,7 +19,7 @@
           "images/portfolio/chirp/p1.png",
           "images/portfolio/chirp/p2.png"
         ],
-        "url": "https://app-chirp-jd.herokuapp.com",
+        "url": "https://chirp-app.onrender.com",
         "githubUrl": "https://github.com/JayDrojas/chirp",
         "technologies": [
           {
@@ -117,7 +117,7 @@
           "images/portfolio/animagee/p1.png",
           "images/portfolio/animagee/p2.png"
         ],
-        "url": "https://animagee.herokuapp.com",
+        "url": "https://animagee.onrender.com",
         "githubUrl": "https://github.com/JayDrojas/animagee",
         "technologies": [
           {
