@@ -194,11 +194,26 @@
     ],
     "experience": [
       {
+        "company": "American Express",
+        "title": "Software Engineer Intern",
+        "years": "01.2021 - 06.2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "SpringBoot",
+          "MySQL",
+          "JavaScript",
+          "Docker",
+          "REST API"
+        ]
+      },
+      {
         "company": "App Academy",
         "title": "Student Software Developer",
-        "years": "11.2021 - present",
+        "years": "11.2021 - 06.2022",
         "mainTech": [
-          "React"
+          "React", "Flask", "Express"
         ],
         "technologies": [
           "CSS",
@@ -213,18 +228,23 @@
         ]
       },
       {
-        "company": "American Express",
-        "title": "Software Engineer Intern",
-        "years": "01.2021 - 06.2021",
+        "company": "Vincit USA",
+        "title": "Software Developer",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Java"
+          "NextJs",
+          "React"
         ],
         "technologies": [
-          "SpringBoot",
-          "MySQL",
-          "JavaScript",
-          "Docker",
-          "REST API"
+          "CSS",
+          "HTML",
+          "TypeScript",
+          "ChakraUi",
+          "Apollo",
+          "NextJs",
+          "GraphQL",
+          "Shopify API",
+          "Git"
         ]
       }
     ]

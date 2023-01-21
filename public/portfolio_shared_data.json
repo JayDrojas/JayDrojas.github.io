@@ -62,6 +62,16 @@
           "name": "Node.js",
           "class": "devicon-nodejs-plain",
           "level": "60"
+        },
+        {
+          "name": "NextJs",
+          "class": "devicon-nextjs-original",
+          "level": "60"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "60"
         }
       ]
     }
