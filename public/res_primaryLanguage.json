@@ -12,6 +12,33 @@
     },
     "projects": [
       {
+        "title": "Arely Gizel Photography",
+        "startDate": "2023",
+        "description": "Photography website using Next.js and TypeScript for the front-end. Utilizes Contentful as the content management system. The site is customizable by the client and is currently still in progress.",
+        "images": [
+          "images/portfolio/arelyphotography/p1.png",
+          "images/portfolio/arelyphotography/p2.png",
+          "images/portfolio/arelyphotography/p3.png"
+        ],
+        "url": "https://arelygizelphotography.vercel.app/",
+        "githubUrl": "https://github.com/JayDrojas/photography-website-v2",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-original-wordmark colored",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "Github"
+          }
+          
+        ]
+      },
+      {
         "title": "Chirp",
         "startDate": "2022",
         "description": "Chirp is a twitter clone where users can create an account. Once account is created they are free to create tweets with or without images. Users can also reply to tweets as well. Chirp was created using React and Flask, images are hosted using AWS.",
